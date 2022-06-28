@@ -13,7 +13,7 @@ const App: React.FC = () => {
               <Link to={''}> Home </Link>
             </li>
             <li>
-              <Link to={'/create'}> Create Designation </Link>
+              <Link to={'/create'}> Add Designation </Link>
             </li>
           </ul>
         </nav>
